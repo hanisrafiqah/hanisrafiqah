@@ -5,9 +5,7 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-- 👩🏻‍💻 I’m currently working on my final year project: **Classification of Diabetes Diagnosis in Pregnant Women Using Support Vector Machine (SVM)**
-  
-- 🎓 I’m currently learning **Special Topics in Bioinformatics & Bioinformatics Modelling And Simulation**
+- 👩🏻‍💻 I’m currently working on my final year project: **Comparative Classification Performance of Diabetes Diagnosis in Pregnant Women Using Support Vector Machine (SVM) and Decision Tree**
 
 - 📩 Email me here: **hanisrafiqah@graduate.utm.my**
 
